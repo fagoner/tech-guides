@@ -68,6 +68,7 @@ Check the `ip/domain`
 
 ### https / ssh
 `sudo ufw allow https`
+
 `sudo ufw allow ssh`
 
 ### Reload after configurations to change
